@@ -16,6 +16,7 @@ This project presents a simplified Smart Home Automation Agent designed to manag
 - `cd <repository_name>`
 2. Install Dependencies:
 Make sure you have the MCP-Model Context Protocol installed. If not, you can typically install it via pip:
+- `pip python`
 - `pip install MCP-Model-Context-Protocol # (Assuming this is the correct package name for MCP)`
 - If the package name is different or requires a specific installation method, please refer to the MCP documentation.
 
